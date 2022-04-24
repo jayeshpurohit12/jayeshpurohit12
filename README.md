@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](linkedin.com/in/jayesh-purohit-yt/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/jayesh-purohit-yt/)
 <img alt="followers" src="https://img.shields.io/github/followers/jayeshpurohit12?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
   
 </div> 
