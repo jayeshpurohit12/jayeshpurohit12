@@ -1,16 +1,18 @@
-### Hi there 👋
+                                                  ### Hi there 👋, I'm Jayesh Purohit
+                                                  <br>
+I am a under-graduate student 📚 . I am open source Enthusiast ❤️. I enjoy programming in C++ and love to build new web apps in Reactjs , Nodejs and also familiar with firebase . Solving challenging problems by creating new solutions is my all time favorite hobby.
 
-<!--
-**jayeshpurohit12/jayeshpurohit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on backend (Nodejs) 
+- 🌱 I’m currently learning React Native 
+- 👯 I’m focuing to improve competitive programming
+- 📫 How to reach me: jayesh.purohit.yt@gmail.com 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jayeshpurohit12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jayesh-purohit-yt/)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jayeshpurohit12&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jayeshpurohit12)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeshpurohit12)](https://github.com/anuraghazra/github-readme-stats)
+
