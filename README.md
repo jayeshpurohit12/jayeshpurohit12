@@ -1,5 +1,5 @@
-                                                  ### Hi there 👋, I'm Jayesh Purohit
-                                                  <br>
+### Hi there 👋, I'm Jayesh Purohit
+                                                 
 I am a under-graduate student 📚 . I am open source Enthusiast ❤️. I enjoy programming in C++ and love to build new web apps in Reactjs , Nodejs and also familiar with firebase . Solving challenging problems by creating new solutions is my all time favorite hobby.
 
 - 🔭 I’m currently working on backend (Nodejs) 
