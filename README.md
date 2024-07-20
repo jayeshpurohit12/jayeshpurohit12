@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Jayesh Purohit!</h1>
 
-<h4 align="center">I am a under-graduate student 📚 . I am open source Enthusiast ❤️. I enjoy programming in C++ and love to build new web apps in Reactjs , Nodejs and also familiar with firebase . Solving challenging problems by creating new solutions is my all time favorite hobby.</h4>
+<h4 align="center">Front-end developer specializing in React Native with 2 years of experience. I excel in creating captivating mobile applications that prioritize user experience and performance..</h4>
 <br/>
 
 <div align="center">
@@ -14,9 +14,8 @@
 
 ## 🧐 About Me
 - 🔭 I’m currently working on backend (Nodejs) 
-- 🌱 I’m currently enhancing my knowledge in Reactjs, React Native
+- 🌱 I’m currently enhancing my knowledge React Native in depth bridging knowledge.
 - 👯 I’m focuing to improve competitive programming
-- 🤔 I’m looking for Referrals
 - 📫 How to reach me: jayesh.purohit.yt@gmail.com 
 
 ## 📚 GitHub Stats:
